@@ -1,6 +1,6 @@
 # Foodood
 
-Foodood is a full stack web application that allows users to place orders at a single restaurant. Both the restaurant and the user are notified and updated via text message through Twilio's SMS API. It was a group midterm project, and my contribution was heavily focussed on front- and back-end development. I also created the design using Adobe XD.
+Foodood is a full stack web application that allows users to place orders at a single restaurant. Both the restaurant and the user are notified and updated via text message through Twilio's SMS API. It was a group midterm project, and my contribution was primarily focused on front-end and database development. 
 
 ## Tech Stack
 
